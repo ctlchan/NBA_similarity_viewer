@@ -1,0 +1,11 @@
+# CSC111 Winter 2021: Python libraries required for the project.
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=1.6.3
+
+# Web Scraping and Data Reading
+pandas~=1.2.3
+Unidecode~=1.2.0
+
